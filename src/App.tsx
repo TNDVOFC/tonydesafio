@@ -25,11 +25,6 @@ export default function App() {
             <div className="absolute -top-10 -left-10 w-40 h-40 bg-indigo-500 rounded-full blur-2xl" />
           </div>
           
-          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/10 border border-white/10 text-[10px] font-bold uppercase tracking-wider mb-3">
-            <GraduationCap size={12} />
-            I.C.M • Superdesafio
-          </div>
-          
           <h1 className="text-xl font-bold leading-tight mb-1">Escolha de Livros</h1>
           <p className="text-slate-400 text-xs">Pesquisa com adultos (40-45 anos)</p>
         </div>
